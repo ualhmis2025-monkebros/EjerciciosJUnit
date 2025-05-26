@@ -189,7 +189,6 @@
                 </reportSets>
             </plugin>
 
-            <!-- 👇 Esto hace que el javadoc con UML sí aparezca en el site -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-javadoc-plugin</artifactId>
